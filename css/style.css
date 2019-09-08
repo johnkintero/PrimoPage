@@ -1,0 +1,23 @@
+.fondoblack{
+    background: rgb(0,0,36);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(35,34,38,1) 50%, rgba(142,142,142,1) 100%);
+}
+.fondogris{
+    background: gray;
+    font-size: 30px;
+}
+.fondonegro{
+    background: black;
+    color: lavenderblush;
+    font-size: 30px;
+}
+.fondogris h5,h6{
+    font-size: 1.5em;
+}
+.fondonegro h5,h6{
+    font-size: 1.5em;
+}
+i.fas,
+  i.far {
+    color: lavenderblush;
+  }
